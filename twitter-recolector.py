@@ -3,7 +3,7 @@
 #-*- coding: utf-8 -*-
 
 """
-* @author Luis Diago de Aguilar
+* @author h3st4k3r
 *
 * Codigo pensado para sacar informacion de twitter y poder hacer OSINT de manera automatizada y facil
 * El documento tiene notas repartidas para poder saber lo que estamos haciendo, mejoras que se pueden implementar, etc.
@@ -48,7 +48,7 @@ auth_api = API(auth)
 """ 
 * Aqui va el main del programa, donde llamaremos a todas las funciones para su futura ejecucion
 *
-* @author Luis Diago de Aguilar 
+* @author h3st4k3r 
 *
 """
 
@@ -74,7 +74,7 @@ def __main__():
 * Vamos a escribir en el fichero los datos de twitter para compararlos con los que ya tenemos y asi 
 * saber si la hemos recibido esos datos o no antes de enviar el correo.
 *
-* @author Luis Diago de Aguilar
+* @author h3st4k3r
 *
 """
 
@@ -109,7 +109,7 @@ def escribe_fichero(texto, target):
 * Vamos a hacer un try except para capturar el problema del servidor de correo durante las pruebas 
 * o para saber si no funciona en el servidor
 *
-* @author Luis Diago de Aguilar
+* @author h3st4k3r
 *
 """
 
@@ -160,7 +160,7 @@ def mailer_class(target, message):
 * Como posible actualizacion y mejora del programa estaria bien poder incluir diferentes funciones para subdividir los procesoso que se generan
 * en esta funcion, reducinedo asi el espacio de la misma al minimo y haciendo que esta se a mas clara para sus posibles actualizaciones.
 *
-* @author Luis Diago de Aguilar 
+* @author h3st4k3r
 *
 """
 
@@ -326,7 +326,7 @@ def informacion_cuentas_individuales(account_list):
 * Aqui va la llamada al main para el inicio del programa.
 * Tambien podras ver la instanciacion de algunas variables globales
 *
-* @author Luis Diago de Aguilar 
+* @author h3st4k3r
 *
 """
 
