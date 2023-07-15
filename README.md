@@ -17,16 +17,16 @@ Install the required dependencies:
 
 `pip install tweepy`
 
-##Usage
+## Usage
 Update the necessary credentials in the script to authenticate with the Twitter API.
 
-Run the script:
+### Run the script:
 
 `python twitter_recolector.py`
 
-Contributing
+##  Contributing
 
 Contributions are welcome! If you have any ideas or improvements, please open an issue or submit a pull request.
 
-License
+## License
 This project is licensed under the GNU License.
