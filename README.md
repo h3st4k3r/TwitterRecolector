@@ -11,7 +11,7 @@ Tweepy library
 Installation
 Clone the repository:
 
-`git clone https://github.com/your-username/TwitterRecolector.git`
+`git clone https://github.com/h3st4k3r/TwitterRecolector/`
 
 Install the required dependencies:
 
