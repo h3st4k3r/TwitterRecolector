@@ -1,6 +1,6 @@
 # TwitterRecolector
-OSINT Twitter with the author (@h3st4k3r) comments in Spanish
-
+Code designed to retrieve information from Twitter and perform automated and easy OSINT (Open Source Intelligence).
+The code includes the author (@h3st4k3r) comments to understand what we are doing and possible improvements to implement.
 
 ## Description
 This repository contains a Python script for extracting information from Twitter and performing OSINT tasks in an automated and convenient way.
